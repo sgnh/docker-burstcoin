@@ -1,3 +1,3 @@
-# docker-burstcoin-fix
+# docker-burstcoin
 
 Burst coin wallet for Docker
